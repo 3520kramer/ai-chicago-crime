@@ -1,0 +1,5 @@
+** Neural Net (100, 100), adam 
+	Training time:		18.489
+	Prediction time(train):	0.169
+	Prediction time(test):	0.076
+	Score Train: 1.000	Score Test: 0.950
